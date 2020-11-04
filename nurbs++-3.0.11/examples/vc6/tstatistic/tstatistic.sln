@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tstatistic", "tstatistic.vcproj", "{C2E1A3FA-7F79-43DC-8605-5EFB110909C8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C2E1A3FA-7F79-43DC-8605-5EFB110909C8}.Debug.ActiveCfg = Debug|Win32
+		{C2E1A3FA-7F79-43DC-8605-5EFB110909C8}.Debug.Build.0 = Debug|Win32
+		{C2E1A3FA-7F79-43DC-8605-5EFB110909C8}.Release.ActiveCfg = Release|Win32
+		{C2E1A3FA-7F79-43DC-8605-5EFB110909C8}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
