@@ -9,3 +9,16 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+
+build/
+compiled/
+nurbs++-3.0.11/config.log
+nurbs++-3.0.11/config.status
+nurbs++-3.0.11/**/.deps/
+nurbs++-3.0.11/**/.libs/
+nurbs++-3.0.11/**/*.lo
+nurbs++-3.0.11/**/*.la
+nurbs++-3.0.11/**/*.o
+nurbs++-3.0.11/include/plib_config.h
+nurbs++-3.0.11/nurbs++-config
+

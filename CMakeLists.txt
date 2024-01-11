@@ -15,3 +15,5 @@ target_link_libraries(SimpleNurbs
 	${CMAKE_SOURCE_DIR}/compiled/lib/libmatrixN.a
 	${CMAKE_SOURCE_DIR}/compiled/lib/libmatrix.a
 	)
+
+install(TARGETS SimpleNurbs DESTINATION lib)
